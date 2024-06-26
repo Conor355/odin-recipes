@@ -1,0 +1,10 @@
+h1 {text-decoration: underline;
+    color: crimson;}
+
+.idk {color: chartreuse;}
+
+h1.idk {color: aqua;}
+
+h1.idk {color: chartreuse;}
+
+#test {color: blueviolet;}
